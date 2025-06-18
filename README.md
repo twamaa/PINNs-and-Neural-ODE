@@ -30,7 +30,7 @@ The code is organized into sections that generate synthetic data, define conduct
 └── /test/                  <- Optional test cases and outputs  
     └── sample_inputs_outputs/
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    git clone[(https://github.com/twamaa/PINNs-and-Neural-ODE)]
