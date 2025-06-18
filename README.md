@@ -33,8 +33,7 @@ The code is organized into sections that generate synthetic data, define conduct
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone[ https://github.com/[YourGitHubHandle]/MustafaSharif_EA_Assignment3.git  
-   cd MustafaSharif_EA_Assignment3](https://github.com/twamaa/PINNs-and-Neural-ODE)
+   git clone[(https://github.com/twamaa/PINNs-and-Neural-ODE)]
 
 2. Install dependencies:
    pip install -r requirements.txt
